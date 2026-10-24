@@ -8,3 +8,6 @@ Quiero mejorar mis conocimientos de HTML y CSS para crear páginas web bien orga
 
 ## 3. Aprender JavaScript
 Mi meta es comprender los conceptos básicos de JavaScript y aprender a utilizarlo para agregar funciones a mis páginas web.
+
+## 4. Mejorar el manejo de Git y GitHub
+Quiero aprender a utilizar mejor Git y GitHub, practicar los commits y mantener mis proyectos organizados.
