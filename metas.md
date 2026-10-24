@@ -11,3 +11,10 @@ Mi meta es comprender los conceptos básicos de JavaScript y aprender a utilizar
 
 ## 4. Mejorar el manejo de Git y GitHub
 Quiero aprender a utilizar mejor Git y GitHub, practicar los commits y mantener mis proyectos organizados.
+
+## 5. Cumplir con mis actividades académicas
+Quiero entregar mis trabajos a tiempo, organizar mis actividades y aprovechar mejor el tiempo de estudio.
+
+## Seguimiento de mis metas
+
+Al finalizar el trimestre, revisaré cuáles de estas metas cumplí, cuáles necesito seguir trabajando y qué conocimientos nuevos adquirí.
