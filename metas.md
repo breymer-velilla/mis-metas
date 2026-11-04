@@ -15,6 +15,9 @@ Quiero aprender a utilizar mejor Git y GitHub, practicar los commits y mantener 
 ## 5. Cumplir con mis actividades académicas
 Quiero entregar mis trabajos a tiempo, organizar mis actividades y aprovechar mejor el tiempo de estudio.
 
+## 6. Disfrutar de la experiencia
+Quiero no solo concentrarme en la parte acádemica sino tambien es disfrutar el momento y crear buenos recuerdos.
+
 ## Seguimiento de mis metas
 
 Al finalizar el trimestre, revisaré cuáles de estas metas cumplí, cuáles necesito seguir trabajando y qué conocimientos nuevos adquirí.
