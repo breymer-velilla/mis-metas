@@ -23,3 +23,5 @@ Quiero no solo concentrarme en la parte acádemica sino tambien es disfrutar el 
 Al finalizar el trimestre, revisaré cuáles de estas metas cumplí, cuáles necesito seguir trabajando y qué conocimientos nuevos adquirí.
 
 Nueva línea
+
+# Cambio Uno
