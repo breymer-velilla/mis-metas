@@ -1,0 +1,6 @@
+# Archivos privados
+notas-privadas.txt
+
+# Archivos temporales
+*.log
+*.tmp
